@@ -1,6 +1,6 @@
 {
   "name": "angular-intro.js",
-  "version": "3.4.0",
+  "version": "3.4.1",
   "main": [
     "build/angular-intro.min.js",
     "src/deprecated.angular-intro.js"
@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "angular": "^1.4.0",
-    "intro.js": "~6.0.0"
+    "intro.js": "^2.5.0"
   },
   "devDependencies": {}
 }
